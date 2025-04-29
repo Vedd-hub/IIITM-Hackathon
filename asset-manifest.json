@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IIITM-Hackathon/static/css/main.e717312d.css",
+    "main.js": "/IIITM-Hackathon/static/js/main.6b135030.js",
+    "static/js/453.9b65cfae.chunk.js": "/IIITM-Hackathon/static/js/453.9b65cfae.chunk.js",
+    "index.html": "/IIITM-Hackathon/index.html",
+    "main.e717312d.css.map": "/IIITM-Hackathon/static/css/main.e717312d.css.map",
+    "main.6b135030.js.map": "/IIITM-Hackathon/static/js/main.6b135030.js.map",
+    "453.9b65cfae.chunk.js.map": "/IIITM-Hackathon/static/js/453.9b65cfae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e717312d.css",
+    "static/js/main.6b135030.js"
+  ]
+}
